@@ -1,0 +1,4 @@
+URL Shortening service
+build a URL shortening service using Express and mongoDB.
+Post/shortUrl Accept a long Url and return a shortened URL.
+patch /:shortID Allow updating the long URL or access count.
